@@ -28,3 +28,12 @@ You are provided with four interconnected tables:
 ● Any store running out of high-demand SKUs? 
 ● Total value of inventory tied up 
 ● Products needing urgent restocking
+
+
+
+
+
+
+
+
+

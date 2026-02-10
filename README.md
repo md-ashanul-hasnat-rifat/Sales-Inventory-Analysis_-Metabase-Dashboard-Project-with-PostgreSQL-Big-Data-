@@ -325,15 +325,3 @@ GROUP BY 1
 ORDER BY 2 DESC;
 ```
 
----
-
-These sections make the repository **presentation-ready**, allowing reviewers to understand both **business logic and SQL skills** instantly.
-
----
-
-If you want next:
-
-* Slide-wise explanation for interviews
-* Optimized version for PostgreSQL / MySQL
-* Star-schema + data model explanation
-* README badges & visuals
